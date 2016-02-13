@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://jjiag22222.github.io/blog/2016/02/13/problems-when-upgrading-java-8/</loc>
+<lastmod>2016-02-13T18:24:55+08:00</lastmod>
+</url>
+<url>
 <loc>http://jjiag22222.github.io/blog/2016/02/05/test/</loc>
 <lastmod>2016-02-05T11:43:21+08:00</lastmod>
 </url>
