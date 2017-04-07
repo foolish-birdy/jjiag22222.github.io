@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Java 8 Optional 应用"
+date: 2016-02-05 11:43:21 +0800
+comments: false
+categories: Java
+---
+
+Java 8 引入了Optional容器类，用于表示一个对象有可能存在也有能不存在的情况。
+#Optional的含义
